@@ -5,12 +5,12 @@
     "author": "stefan2200"
   },
   "server": {
-    "username": "your tw username",
-    "password": "your tw password",
-    "server": "nlc1",
-    "endpoint": "https://nlc1.tribalwars.nl/game.php",
+    "username": "ankara297",
+    "password": "230315",
+    "server": "tr59",
+    "endpoint": "https://tr59.klanlar.org/game.php",
     "has_recaptcha": true,
-    "world": "nlc1",
+    "world": "tr59",
     "server_on_twplus": true
   },
   "bot": {
@@ -50,13 +50,13 @@
     "trade_max_per_hour": 1
   },
   "world": {
-    "knight_enabled": false,
-    "flags_enabled": false,
-    "farm_limit": true,
+    "knight_enabled": true,
+    "flags_enabled": true,
+    "farm_limit": false,
     "quests_enabled": false
   },
   "villages": {
-    "your village id": {
+    "4411": {
       "building": "purple_predator",
       "units": "basic_into_def",
       "managed": true,
